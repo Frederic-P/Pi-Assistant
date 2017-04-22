@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Pi-assitantV2.1 free-use and modifications allowed for non-commercial projects"""
+"""Pi-assitantV2.1 Shared under MIT-license"""
 
 
 
